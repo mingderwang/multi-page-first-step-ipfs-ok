@@ -1,0 +1,13 @@
+{
+  "name": "20210131-multi-page-first-step",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "ipfs": "node ./scripts/ipfs.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "ipfs-http-client": "^48.2.2"
+  }
+}
